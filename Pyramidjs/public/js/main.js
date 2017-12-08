@@ -5,8 +5,8 @@ var canvasGame;
 
 var inputsKeyCode = {
 	r:[39, 68],
-	l:[37, 81],
-	u:[38, 90],
+	l:[37, 65],
+	u:[38, 87],
 	d:[40, 83],
 	j:[32],
 	restart:[82],
